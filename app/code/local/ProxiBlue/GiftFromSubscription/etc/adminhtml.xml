@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config> 
+	<acl>
+	    <resources>
+	      <admin>
+		    <children>
+		        <system>
+		            <children>
+		                <config>
+		                    <children>
+		                        <giftfromsubscription translate="title" module="proxiblue_giftfromsubscription">
+		                            <title>Gift Coupon for Subscription</title>
+		                        </giftfromsubscription>
+		                    </children>
+		                </config>
+		            </children>
+		        </system>
+		    </children>
+		</admin>
+	    </resources>
+	</acl>
+</config>

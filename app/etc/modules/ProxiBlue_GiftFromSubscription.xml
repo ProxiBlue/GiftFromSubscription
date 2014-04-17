@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <ProxiBlue_GiftFromSubscription>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends></depends>
+        </ProxiBlue_GiftFromSubscription>
+    </modules>
+</config>
