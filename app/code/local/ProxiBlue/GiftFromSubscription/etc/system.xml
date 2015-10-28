@@ -7,7 +7,7 @@
         </proxiblue>
     </tabs>
     <sections>
-        <giftfromsubscription translate="label" module="dyncatprod">
+        <giftfromsubscription>
             <label>Gift Coupon for Subscription</label>
             <tab>proxiblue</tab>
             <frontend_type>text</frontend_type>
